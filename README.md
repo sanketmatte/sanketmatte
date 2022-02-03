@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanketmatte
 - 👀 I’m interested in ... Future Technologies
 - 🌱 I’m currently learning ... Machine learning, Deep Learning and Artificial Intelligence
-- 💞️ I’m looking to collaborate on ... python, Django
+- 💞️ I’m looking to collaborate on ... Python, Django
 - 📫 How to reach me ... 
 
 <!---
